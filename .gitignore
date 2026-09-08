@@ -1,0 +1,38 @@
+# Dependências
+node_modules/
+**/node_modules/
+
+# Builds e temporários
+dist/
+dist-ssr/
+.vite/
+examples/figma/extracted/
+
+# Ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/.venv/
+backend/.cache/
+backend/.tmp/
+database/meetingflow.sqlite3
+database/storage/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+*.code-workspace
+docs_comparar/
+.codex
+#study
+study/
