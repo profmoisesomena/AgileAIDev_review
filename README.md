@@ -313,7 +313,4 @@ NÃO leia o repositório completo, a menos que seja estritamente necessário.
 
 ---
 
-**Feito para times ágeis que querem amplificar sua produtividade com IA**
-# Scrum_AIDev
-#   A g i l e A I D e v _ r e v i e w  
  
