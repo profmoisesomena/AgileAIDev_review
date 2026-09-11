@@ -312,5 +312,7 @@ NÃO leia o repositório completo, a menos que seja estritamente necessário.
 | User Stories | https://www.mountaingoatsoftware.com/agile/user-stories |
 
 ---
+**Feito para times ágeis que querem amplificar sua produtividade com IA**
+# Scrum_AIDev
 
  
